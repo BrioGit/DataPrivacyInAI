@@ -1,0 +1,107 @@
+Name: Timmy Johnson | 7 years | 123 Main St, Pleasant PA 19305| 345-555-4433
+
+Notes: Timmy's had an ok year. He's doing better in school and mostly stopped pulling the dog’s tail. However, he's fallen in with a bit of a bad crowd and started pushing crypto schemes on his classmates.  He convinced them to invest their lunch money in his new 'TimmyCoin2.0' and then told them it lost all its value when they tried to cash out. He's also begun selling NFTs of his drawings, insisting they will only go up in value.
+
+Name: Flora McJingles | 9 years | 123 Holly Lane, North Pole 00000 | 123-555-7890
+
+Notes: Flora has shown exceptional kindness by helping her friends with their homework and sharing her toys generously. She participated in community clean-up events and volunteered at the local elf workshop during the holidays. Flora also displayed creativity by organizing a snowman-building contest for her neighborhood, spreading joy among her peers. On the flip side, she was caught attempting to teach the reindeer how to dance the salsa and was found exchanging her vegetables for cookies in the school cafeteria. Flora's adventurous spirit led her to embark on a daring mission to retrieve lost presents from the workshop, demonstrating her determination.
+
+Name: Ollie Oops | 6 years | 123 Mishap Street, Oopsburg, OB 12345 | 901-555-5678
+
+Notes: Ollie occasionally had oops-themed tea parties with imaginary friends, apologized for accidentally turning the living room into a slip 'n slide with spilled juice, consistently shared band-aids with friends, helped organize a funny fall contest, had a small disagreement about the best pratfall with a classmate, donated bubble wrap to a local charity, occasionally argued with parents about spill prevention, helped set up a clumsy obstacle course for neighbors, and shared band-aid-shaped cookies with classmates.
+
+Name: Wendy Whirlwind | 6 years | 456 Tornado Terrace, Gale City, GC 45678 | 123-555-6789
+
+Notes: Wendy occasionally had whirlwind-themed dance parties in the living room, apologized for accidentally creating a mini-tornado during a playdate, consistently shared tornado facts with friends, helped organize a windy kite-flying event, had a small disagreement about the best tornado design with a classmate, donated wind chimes to a local charity, occasionally argued with parents about turning off fans, helped install wind turbines for neighbors, and shared cloud-shaped cookies with classmates.
+
+Name: Milo Mischief | 8 years | 789 Prankster Lane, Jesterville, JV 78901 | 234-555-8901
+
+Notes: Milo occasionally organized prank-themed sleepovers, apologized for accidentally turning the living room into a whoopee cushion zone, consistently shared joke books with friends, helped organize a funny face contest, had a small disagreement about the best prank call with a classmate, donated whoopee cushions to a local charity, occasionally argued with parents about prank safety, helped set up a prank hotline for neighbors, and shared laughter-themed cookies with classmates.
+
+Name: Lily Martinez | 5 years | 789 Mistletoe Avenue, Hollyville, HV 78901 | 901-555-5678
+
+Notes: Lily often refused to share toys with her siblings, had a small disagreement with a friend, consistently brushed her teeth before bedtime, occasionally forgot to say "please" and "thank you," comforted a classmate who was upset, greeted neighbors with a smile, participated in a small neighborhood cleanup, apologized when she accidentally bumped into someone, listened to her parents without interruption, and shared snacks with siblings.
+
+Name: Caleb Miller | 11 years | 210 Reindeer Road, Sleighville, SV 18940 | 210-555-3456
+
+Notes: Skipped chores to play video games, Ignored requests to clean up room, Lied about finishing homework, Didn't share school supplies with classmates, Refused to apologize for mistakes, Broke a friend's toy intentionally, Cheated in a game of tag, Tattled on classmates for fun, Used inappropriate language, Ignored warnings about crossing the street.
+
+Name: Candace Flynn | 14 years | 123 Bustable Blvd, Danville 23456 | 123-555-4567
+
+Notes: Always trying to bust her brothers, complaining about their inventions, frequently annoyed, obsessed with Jeremy, snooping around, exaggerating stories, constant phone calls, impatient, easily frustrated, tendency to overreact, often stressed out.
+
+Name: Isabella Garcia-Shapiro | 9 years | 789 Fireside Lane, Danville 23456 | 345-555-6789
+
+Notes: Always participating in Phineas's plans, expressing feelings for Phineas, frequently saying "Whatcha doin'?", organized and responsible, striving to earn Fireside Girl patches, helpful and caring, occasionally getting jealous, determined to impress Phineas, loyal friend, often volunteering for tasks.
+
+Name: Baljeet Tjinder | 12 years | 202 Smarty Lane, Danville 23456 | 567-555-8901
+
+Notes: Always worrying about consequences, expressing concerns about safety, engaging in intellectual pursuits, diligent in schoolwork, collaborating on inventions with Phineas and Ferb, seeking knowledge, using advanced vocabulary, occasionally taking things too seriously, overthinking situations, giving lengthy explanations.
+
+Name: Buford Van Stomm | 11 years | 101 Tough Street, Danville 23456  | 456-555-7890
+
+Notes: Bullying behavior, intimidating others, tough exterior, bragging about toughness, challenging peers to fights, teasing and taunting, using strong language, refusing to admit vulnerability, tendency to be confrontational, hoarding snacks and treats.
+
+Name: Phineas Fletcher | 10 years | 456 Imagination Ave, Danville 23456 | 234-555-5678
+
+Notes: Building wild inventions, creating unusual contraptions, organizing big events, overly ambitious projects, pushing boundaries, ignoring warnings, engaging in risky activities, unintentionally causing chaos, treating his friends to great adventures. Taking good care of his pet platypus, even though it doesn't do much.
+
+Name: Luna Lovegood | 10 years | 13 Spectrespecs Lane, Thestral Meadows, Wizarding World | 123-555-7890
+
+Notes: Wears radish earrings; Talks to imaginary creatures; Collects Wrackspurts; Believes in Nargles; Daydreams during class; Paints unusual creatures; Reads The Quibbler regularly; Kind to magical creatures; Helps classmates with homework; Spreads positivity with quirky outlook.
+
+Name: Hermione Granger | 11 years | 7 Muggle Street, Bookworm Haven, Wizarding World | 789-555-5678
+
+Notes: Top of the class in all subjects; Reads books voraciously; Organizes study groups; Advocates for House Elf rights; Casts spells flawlessly; Aims to master every charm; Excessive rule-following; Loves helping others succeed; Challenges authority respectfully; Takes initiative in group projects.
+
+Name: Fred Weasley | 13 years | 92 Prankster Lane, Jokester Junction, Wizarding World | 234-555-6789
+
+Notes: Pranks fellow students; Masters joke shop tricks; Entrepreneurial spirit; Sneaks into restricted areas; Laughs during serious moments; Exceptional Beater in Quidditch; Improvises magic spells; Collaborates with twin brother George; Devotes time to creating mischief; Surprises classmates with unexpected antics.
+
+Name: Neville Longbottom | 9 years | 3 Herbology Lane, Timid Terrace, Wizarding World | 567-555-2345
+
+Notes:Loses belongings frequently; Courageous during adversity; Thrives in Herbology; Grows magical plants successfully; Overcomes self-doubt; Stands up to bullies; Contributes in Defense Against the Dark Arts; Earns house points for bravery; Secretly admires Gryffindor bravery; Shows kindness to magical creatures.
+
+Name: Chewbacca Wookiee | 5 years | 23 Kashyyyk Avenue, Wookiee Village, WV 24680 | 555-555-3456
+
+Notes: Played loudly indoors, Helped a friend in need, Ate all vegetables on the plate, Shared toys with siblings, Cleaned room without being asked, Refused to take a bath, Listened to parents without argument, Used inappropriate language, Took extra cookies from the jar, Played well with other Wookiee children.
+
+Name: Lando Calrissian | 11 years | 654 Cloud City Boulevard, Bespin, BP 34567 | 555-555-7654
+
+Notes: Skipped school to play games, Helped a friend with a tough task, Ate all vegetables on the plate, Listened to parents without argument, Played well with classmates, Took credit for a sibling's chores, Rescued a stray animal and found it a home, Refused to take a bath, Ignored bedtime consistently, Used polite manners consistently.
+
+Name: Rey Jakku | 9 years | 345 Scavenger Street, Jakku City, JC 98765 | 555-555-8765
+
+Notes: Fixed a broken droid for a neighbor, Helped a friend with a tough task, Shared snacks with classmates, Played nicely with siblings, Ignored bedtime consistently, Made a thoughtful gift for a teacher, Ate all vegetables on the plate, Rescued a lost pet, Listened to parents without argument, Used polite manners consistently.
+
+Name: Mace Windu | 13 years | 987 Jedi Council Avenue, Coruscant, CR 87654 | 555-555-8765
+
+Notes: Skipped chores to play video games, Helped a friend with homework, Ignored requests to clean up room, Took credit for a sibling's chores, Fixed a broken appliance at home, Ate dessert before dinner, Played pranks on classmates, Used inappropriate language, Cheated in a game of tag, Refused to apologize for mistakes.
+
+Name: Padme Amidala | 6 years | 567 Queen's Way, Naboo City, NC 13579 | 555-555-5678
+
+Notes: Cleaned room without being asked, Shared toys with friends, Listened to parents without argument, Helped a neighbor with gardening, Ate all vegetables on the plate, Apologized for mistakes promptly, Shared school supplies with classmates, Volunteered to help at a local pet shelter, Played nicely with siblings, Said "please" and "thank you" consistently.
+
+Name: Luke Skywalker | 12 years | 789 Rebel Base Road, Yavin IV, Y4 56789 | 555-555-9876
+
+Notes: Fixed a broken droid for a friend, Ate snacks before dinner, Shared lunch with a classmate, Ignored bedtime consistently, Helped a neighbor with chores, Rescued a lost pet, Refused to do homework, Took extra desserts without permission, Played pranks on siblings, Lied about finishing chores.
+
+Name: Han Solo | 13 years | 98 Smuggler's Alley, Cloud City, CC 54321 | 555-555-4321
+
+Notes: Skipped school to play games, Helped a friend in need, Took credit for a sibling's chores, Shared snacks with classmates, Ignored curfew repeatedly, Fixed a broken appliance at home, Lied about finishing homework, Ate dessert before dinner, Teased classmates for fun, Helped organize a community event.
+
+Name: Leia Organa | 8 years | 432 Millennium Falcon Lane, Alderaan City, AC 12345 | 555-555-6789
+
+Notes: Took extra cookies from the jar, Helped a friend with homework, Shared toys with siblings, Ate vegetables without being asked, Rescued a stray Porg and found it a home, Made a thoughtful gift for a teacher, Cleaned room without being reminded, Shared lunch with a classmate, Volunteered to help at a local charity event, Used polite manners consistently.
+
+Name: Al Johnson | 13 years | 7 Ho Ho Lane, Jingle Town, AK 99501 | 907-555-6789
+
+Notes: Volunteered at a local charity event, Completed yard work without being asked, Helped a neighbor shovel snow, Apologized after a disagreement with a friend, Respected curfew rules, Followed through on commitments, Shared lunch with a classmate who forgot theirs, Tutored a younger student in math, Participated in community cleanup, Demonstrated kindness to animals.
+
+Name: Hans Gruber | 45 years | 321 Top Floor, Nakatomi Towers, LA 90001 | 310-555-4321
+
+Notes: Implemented an elaborate plan to steal corporate bonds, Demonstrated exceptional organizational skills, Spoke multiple languages fluently, Maintained a calm demeanor under pressure, Showed strategic thinking during negotiations, Displayed leadership qualities among his crew, Dressed impeccably for the Nakatomi Plaza party, Demonstrated knowledge of classical music, Engaged in polite conversation with hostages, Exhibited resourcefulness in evading law enforcement.
+
+Name: John McClane | 39 years | 302 Maintenance Shaft, Nakatomi Towers, LA 90001 | 310-555-6789
+
+Notes: Acted heroically to save hostages during a terrorist attack, Demonstrated proficiency in improvised weaponry, Showed resilience in the face of adversity, Displayed strong problem-solving skills, Communicated effectively under pressure, Maintained a sense of humor in tense situations, Exhibited a strong sense of justice, Respected authority while challenging it when necessary, Showed care and concern for fellow officers, Demonstrated physical fitness and combat skills.
