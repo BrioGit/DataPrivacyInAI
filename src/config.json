@@ -1,0 +1,7 @@
+{
+    "OPENAI_API_BASE":"",
+    "OPENAI_API_VERSION":"",
+	"OPENAI_API_KEY":"",
+	"AZURE_LANG_SVC_KEY":"",
+	"AZURE_LANG_SVC_ENDPT":""
+}
